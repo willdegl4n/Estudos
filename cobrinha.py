@@ -142,4 +142,3 @@ while True:
     # Até a proxima...
 
 #    SQL Dicas 
-#   Vou disponibilizar o código no Github e postar a url aqui na descrição
